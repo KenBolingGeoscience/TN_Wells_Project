@@ -13,5 +13,3 @@ Programming language: Python
 Software required: ArcGIS
 
 Python libraries required: arcpy, scipy
-
-Code can be accessed from
