@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aca3c1a-02f4-4e1d-8f9b-c49baf6a650d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1 Preprocessing and Initial Integration/Arc_Map_File_Name_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 Preprocessing and Initial Integration/Suface_Data_Preprocessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 Preprocessing and Initial Integration/Well_Data_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 Preprocessing and Initial Integration/Well_Preprocessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Cleaning and Cross-Verification/Check_Against_Elevation_Data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Cleaning and Cross-Verification/Surface_Data_Integration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Querying and Interpolation/Generate_Surfaces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Querying and Interpolation/Subset_Query.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Inital_Data_Conversion_and_Cleaning-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inital_Data_Conversion_and_Cleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1 Preprocessing and Initial Integration/Inital_Data_Conversion_and_Cleaning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oil_and_Gas_Well_Integration.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,13 +14,13 @@
     <session id="606133485">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -74,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1 Preprocessing and Initial Integration/Well_Preprocessing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="349" lean-forward="true" selection-start-line="349" selection-end-line="349" />
+            <state relative-caret-position="1921">
+              <caret line="113" column="39" lean-forward="true" selection-start-line="113" selection-start-column="39" selection-end-line="113" selection-end-column="39" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -123,11 +111,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1 Preprocessing and Initial Integration/Well_Data_Conversion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
+            <state relative-caret-position="2346">
+              <caret line="138" column="39" lean-forward="true" selection-start-line="138" selection-start-column="39" selection-end-line="138" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -137,7 +125,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="255">
-                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+                <caret line="15" selection-start-line="15" selection-end-line="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -175,7 +163,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-5" />
+    <option name="x" value="-131" />
+    <option name="y" value="130" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -310,14 +299,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="0" width="1936" height="1056" extended-state="0" />
+    <frame x="-118" y="126" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50263435" side_tool="true" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49736565" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5036881" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4963119" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49894625" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.4963119" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -385,10 +374,42 @@
     <entry file="file://$PROJECT_DIR$/2 Cleaning and Cross-Verification/Check_Against_Elevation_Data.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/3 Querying and Interpolation/Subset_Query.py">
+    <entry file="file://$PROJECT_DIR$/Oil_and_Gas_Well_Integration.py" />
+    <entry file="file://$PROJECT_DIR$/Inital_Data_Conversion_and_Cleaning.ipynb" />
+    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/Inital_Data_Conversion_and_Cleaning-checkpoint.ipynb" />
+    <entry file="file://$PROJECT_DIR$/3 Querying and Interpolation/Generate_Surfaces.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/3 Querying and Interpolation/Generate_Surfaces.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 Preprocessing and Initial Integration/Well_Data_Conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="138" column="39" lean-forward="true" selection-start-line="138" selection-start-column="39" selection-end-line="138" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 Preprocessing and Initial Integration/Inital_Data_Conversion_and_Cleaning.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 Querying and Interpolation/Subset_Query.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/1 Preprocessing and Initial Integration/Arc_Map_File_Name_script.py">
@@ -405,62 +426,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1 Preprocessing and Initial Integration/Well_Preprocessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="349" lean-forward="true" selection-start-line="349" selection-end-line="349" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Oil_and_Gas_Well_Integration.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Inital_Data_Conversion_and_Cleaning.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/Inital_Data_Conversion_and_Cleaning-checkpoint.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1 Preprocessing and Initial Integration/Inital_Data_Conversion_and_Cleaning.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="16" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1 Preprocessing and Initial Integration/Suface_Data_Preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -468,10 +433,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1 Preprocessing and Initial Integration/Well_Data_Conversion.py">
+    <entry file="file://$PROJECT_DIR$/1 Preprocessing and Initial Integration/Well_Preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
+        <state relative-caret-position="1921">
+          <caret line="113" column="39" lean-forward="true" selection-start-line="113" selection-start-column="39" selection-end-line="113" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
